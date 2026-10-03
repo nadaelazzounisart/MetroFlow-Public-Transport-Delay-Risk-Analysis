@@ -15,3 +15,5 @@ To accurately assess performance on potentially imbalanced data (where severe de
 
 ## Repository Structure
 * `MLfinalmasterpieceversion.ipynb`: The main Python notebook containing data exploration, preprocessing, model training, and evaluation.
+* `track_l_public_transport_delay_train.csv`: The training dataset used to fit the Logistic Regression, Random Forest, and Gradient Boosting models.
+* `track_l_public_transport_delay_test.csv`: The unseen testing dataset used to evaluate final model performance using PR-AUC and ROC-AUC metrics.
